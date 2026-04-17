@@ -56,3 +56,6 @@ require (
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
 )
+
+// Personal fork - tracking upstream prometheus/node_exporter
+// Last synced: 2023-10
