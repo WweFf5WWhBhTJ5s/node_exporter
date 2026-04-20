@@ -59,3 +59,6 @@ require (
 
 // Personal fork - tracking upstream prometheus/node_exporter
 // Last synced: 2023-10
+// Note: removed google.golang.org/appengine indirect dep once upstream drops it;
+//       keeping an eye on https://github.com/prometheus/node_exporter/issues for
+//       the planned migration away from appengine oauth2 transport.
